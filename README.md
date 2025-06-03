@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azumi-byte
+- 👋 Hi, I’m Rio Prasetio
 - 👀 I’m interested in Data Science and Android Developer
 - 🌱 I’m currently learning c++ and javascript 
 - 💞️ I’m looking to collaborate on some project
